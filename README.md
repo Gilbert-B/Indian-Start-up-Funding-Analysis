@@ -16,3 +16,10 @@ The project aims to draw insights on funding received by Indian start-ups and ob
 
 ## The Steps Involved
 Jupyter Notebook was used in this analysis and all processes takes place in the Jupyter Notebook environment
+
+##  ***1.Installation***
+
+The first step in our EDA process is to install all the packages and libraries that will be used in our analysis. 
+
+![Installation Image](Installation.png)
+
