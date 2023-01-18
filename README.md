@@ -21,5 +21,5 @@ Jupyter Notebook was used in this analysis and all processes takes place in the 
 
 The first step in our EDA process is to install all the packages and libraries that will be used in our analysis. 
 
-![Installation Image](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Installation.png)
+
 
