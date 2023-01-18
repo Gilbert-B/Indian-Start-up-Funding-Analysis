@@ -134,8 +134,14 @@ A combination of charts and code was used to answer the questions asked at the e
 · Which company received the highest amount of funds?
 
 The analysis conducted revealed that Alteria Capital received the highest amount of funds.
-
-
+![Highest](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Q1Highestfund.png)
+![Lowest](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Q2LowestFund.png)
+![Industry](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Q3IndustryHighest.png)
+![Industrylowest](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Q4IndustryLowest.png)
+![Corellation](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Q5Corellation.png)
+![Heatup](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Q5Heatmap.png)
+![CompaniesFunded](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Q9CompaniesFunded.png)
+![CompaniesBarchat](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Q9CompaniesFundedBarChat.png)
 
 
 
