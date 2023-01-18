@@ -132,14 +132,53 @@ Our data is now ready to be analyzed and for insights to be drawn from it
 A combination of charts and code was used to answer the questions asked at the early stages of our analysis.
 
 · Which company received the highest amount of funds?
-
 The analysis conducted revealed that Alteria Capital received the highest amount of funds.
 ![Highest](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Q1Highestfund.png)
+
+Which company received the lowest amount of funds?
+
+SATYA Microcapital Received the lowest funds
+
+
 ![Lowest](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Q2LowestFund.png)
+
+
+· Which Industry received the highest amount of funding?
+
+FinTech start-ups received the highest amount of funding of $156,795,709,876.32.
+
+It is followed by Retail and EdTech companies in 2nd and 3rd place respectively for highest funded industries
+
 ![Industry](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Q3IndustryHighest.png)
+
+· Which Industry received the lowest amount of funding?
+
+The industry that received the lowest amount of funding is Warehouse which received $5400
+
 ![Industrylowest](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Q4IndustryLowest.png)
+
+· Which location recorded the highest amount of funding received?
+
+My analysis revealed that start-ups located in Mumbai received a collectively high amount of funding followed by Bangalore and Gurugram
+
+![location](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Q6location.png)
+
+ Is there a correlation between company age and funds received?
+
+In my analysis, I tried to detect if there was a correlation between the ages of the startup and the funding they received. I found that there was no correlation between company age and funds.
 ![Corellation](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Q5Corellation.png)
 ![Heatup](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Q5Heatmap.png)
+
+What is the average age of the start-ups?
+
+The average age of the start-ups is 6.6 years old
+
+· What is the average amount of funding received?
+
+The average amount of funding received is $140,466,660.78
+
+· How many companies were funded each year?
+The number of start-ups that received funding generally increased over the years despite the dip in 2019
 ![CompaniesFunded](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Q9CompaniesFunded.png)
 ![CompaniesBarchat](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Q9CompaniesFundedBarChat.png)
 
