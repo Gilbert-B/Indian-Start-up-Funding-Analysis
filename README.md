@@ -163,13 +163,13 @@ My analysis revealed that start-ups located in Mumbai received a collectively hi
 
 ![location](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Q6location.png)
 
- Is there a correlation between company age and funds received?
+· Is there a correlation between company age and funds received?
 
 In my analysis, I tried to detect if there was a correlation between the ages of the startup and the funding they received. I found that there was no correlation between company age and funds.
 ![Corellation](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Q5Corellation.png)
 ![Heatup](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Q5Heatmap.png)
 
-What is the average age of the start-ups?
+· What is the average age of the start-ups?
 
 The average age of the start-ups is 6.6 years old
 
@@ -183,4 +183,6 @@ The number of start-ups that received funding generally increased over the years
 ![CompaniesBarchat](https://github.com/Gilbert-B/Indian-Start-up-Funding-Analysis/blob/main/Screenshots%20of%20code/Q9CompaniesFundedBarChat.png)
 
 
+CONCLUSION
 
+Based on my analysis, the Null Hypothesis; ‘The sector of a start-up affects the amount of funding received’ was rejected as there is no relationship between the two.
